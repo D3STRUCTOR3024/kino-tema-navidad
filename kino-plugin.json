@@ -1,11 +1,11 @@
 {
   "id": "theme-kino-christmas",
   "name": "Navidad Kino",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "apiVersion": 18,
   "icon": "icon.png",
   "entry": "plugin.js",
-  "description": "Un tema festivo con degradado nevado, árbol de Navidad y copos de nieve.",
+  "description": "Un tema festivo con fondo oscuro, árbol de Navidad y copos de nieve.",
   "hosts": [],
   "categories": [
     "themes"
@@ -20,19 +20,19 @@
       "colors": {
         "accent": "#D32F2F",
         "onAccent": "#FFFFFF",
-        "background": "#FFFFFF",
-        "surface": "#F2F9F2",
-        "surfaceHigh": "#E5F2E5",
-        "railPanel": "#FFFFFF",
-        "border": "#C8E6C9",
-        "textPrimary": "#0A1F0D",
-        "textSecondary": "#2E4C33"
+        "background": "#000000",
+        "surface": "#1A1A1A",
+        "surfaceHigh": "#2D2D2D",
+        "railPanel": "#121212",
+        "border": "#D32F2F",
+        "textPrimary": "#FFFFFF",
+        "textSecondary": "#B3B3B3"
       },
       "background": {
         "type": "gradient",
         "colors": [
-          "#FFFFFF",
-          "#4CAF50"
+          "#000000",
+          "#142F16"
         ],
         "angle": 180
       },
@@ -111,10 +111,10 @@
         "colors.accent": {
           "swatches": [
             "#D32F2F",
-            "#FFD700",
+            "#FFFFFF",
             "#00E5FF",
             "#2E7D32",
-            "#8D6E63"
+            "#FFD700"
           ]
         },
         "shape.cardRadius": {
