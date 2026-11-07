@@ -1,18 +1,18 @@
 {
   "id": "theme-kino-christmas",
   "name": "Navidad Kino",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "apiVersion": 18,
   "icon": "icon.png",
   "entry": "plugin.js",
-  "description": "Un tema festivo con fondo oscuro, árbol de Navidad y copos de nieve.",
+  "description": "Tema navideño con contraste corregido para los colores ajustables.",
   "hosts": [],
   "categories": [
     "themes"
   ],
   "appThemes": [
     {
-      "id": "navidad-nieve",
+      "id": "navidad-v5",
       "name": {
         "es": "Navidad",
         "en": "Christmas"
@@ -111,10 +111,10 @@
         "colors.accent": {
           "swatches": [
             "#D32F2F",
-            "#FFFFFF",
-            "#00E5FF",
             "#2E7D32",
-            "#FFD700"
+            "#9E6900",
+            "#0277BD",
+            "#7B1FA2"
           ]
         },
         "shape.cardRadius": {
