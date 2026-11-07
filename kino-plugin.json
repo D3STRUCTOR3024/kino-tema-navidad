@@ -1,7 +1,7 @@
 {
   "id": "theme-kino-christmas",
   "name": "Navidad Kino",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "apiVersion": 18,
   "icon": "icon.png",
   "entry": "plugin.js",
@@ -69,23 +69,7 @@
               "fill": "#81D4FA"
             },
             {
-              "d": "M 10 20 H 20 V 35 L 35 20 H 48 L 30 38 L 48 65 H 35 L 20 45 V 65 H 10 Z",
-              "fill": "textPrimary"
-            },
-            {
-              "d": "M 95 65 V 20 H 107 L 120 45 V 20 H 130 V 65 H 118 L 105 40 V 65 Z",
-              "fill": "textPrimary"
-            },
-            {
-              "d": "M 140 42 Q 140 20 155 20 Q 170 20 170 42 Q 170 65 155 65 Q 140 65 140 42 M 150 42 Q 150 30 155 30 Q 160 30 160 42 Q 160 55 155 55 Q 150 55 150 42",
-              "fill": "textPrimary"
-            },
-            {
-              "d": "M 190 20 H 220 V 30 H 210 V 65 H 200 V 30 H 190 Z",
-              "fill": "textPrimary"
-            },
-            {
-              "d": "M 225 20 H 237 L 245 50 L 253 20 H 265 L 250 65 H 240 Z",
+              "d": "M 10 20 H 20 V 35 L 35 20 H 48 L 30 38 L 48 65 H 35 L 20 45 V 65 H 10 Z M 95 65 V 20 H 107 L 120 45 V 20 H 130 V 65 H 118 L 105 40 V 65 Z M 140 42 Q 140 20 155 20 Q 170 20 170 42 Q 170 65 155 65 Q 140 65 140 42 M 150 42 Q 150 30 155 30 Q 160 30 160 42 Q 160 55 155 55 Q 150 55 150 42 M 190 20 H 220 V 30 H 210 V 65 H 200 V 30 H 190 Z M 225 20 H 237 L 245 50 L 253 20 H 265 L 250 65 H 240 Z",
               "fill": "textPrimary"
             },
             {
